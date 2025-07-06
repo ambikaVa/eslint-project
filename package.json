@@ -1,0 +1,28 @@
+{
+  "name": "eslint-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint js",
+    "lint-fix": "eslint js --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambikaVa/eslint-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambikaVa/eslint-project/issues"
+  },
+  "homepage": "https://github.com/ambikaVa/eslint-project#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.30.1",
+    "@types/lodash": "^4.17.20",
+    "@types/underscore": "^1.13.0",
+    "eslint": "^9.30.1",
+    "globals": "^16.3.0"
+  }
+}
