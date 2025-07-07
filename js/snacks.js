@@ -1,4 +1,4 @@
-import lodash from 'lodash';
+import _ from 'underscore';
 
 var arr=['tea', 'coffee'];
-lodash.findIndex(arr,'coffee');
+_.findIndex(arr,'coffee');

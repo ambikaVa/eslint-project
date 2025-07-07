@@ -7,4 +7,4 @@ return true
     return false;
 }
 
-checkPositive('3');
+console.log(checkPositive('3'));
